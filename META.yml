@@ -20,8 +20,9 @@ no_index:
 requires:
   Catalyst::Runtime: 0
   Catalyst::View::TT: 0
+  Class::C3: 0
   HTTP::Negotiate: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-View-TT-XHTML
-version: 1.001
+version: 1.002
